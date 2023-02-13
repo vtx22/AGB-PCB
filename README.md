@@ -11,3 +11,5 @@ The Board Outline was derived from the [gbaZero]([Nintenfo]) project by [AEFeins
 ## Images
 ### PCB Front:
 ![PCB Front](/img/pcb-front.png)
+### PCB Back:
+![PCB Back](/img/pcb-back.png)

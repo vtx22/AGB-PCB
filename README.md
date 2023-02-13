@@ -1,3 +1,4 @@
+[![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
 # Game Boy Advance PCB
 Recreation of the Game Boy Advance AGS-001 PCB
 
@@ -13,8 +14,6 @@ The Board Outline was derived from the [gbaZero](https://github.com/AEFeinstein/
 ![PCB Front](/img/pcb-front.png)
 ### PCB Back:
 ![PCB Back](/img/pcb-back.png)
-
-Shield: [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
 
 This work is licensed under a
 [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License][cc-by-nc-sa].

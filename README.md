@@ -1,4 +1,4 @@
-# GameBoy Advance PCB
+# Game Boy Advance PCB
 Recreation of the Game Boy Advance AGS-001 PCB
 
 **Important: The PCB is untested and not an exact trace by trace copy. Use at your own risk! Please message me if you find any mistakes.**  
